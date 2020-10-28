@@ -1,0 +1,1 @@
+export const todoListSelector = ({todos}) => todos
